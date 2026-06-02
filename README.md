@@ -1,4 +1,4 @@
-# Olá, eu sou Ricardo Ruan 👋
+# Prazer, Ricardo Ruan 👋
 
 💻 QA Analyst | Automação de Testes | API Testing | Quality Assurance
 
