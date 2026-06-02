@@ -13,8 +13,8 @@ Ao longo da minha trajetória participei de projetos de logística, Supply Chain
 | :--- | :--- |
 | **Testes e Automação** | Playwright • SpecFlow • Selenium *(estudando)* • Postman • OWASP ZAP • Burp Suite |
 | **Linguagens** | TypeScript • Java • Python • C# |
-| **Banco de Dados** | PostgreSQL • SQL Server • SQL |
-| **DevOps e Versionamento** | Git • GitHub • GitHub Actions • Docker |
+| **Banco de Dados** | PostgreSQL • MySql • SQL |
+| **DevOps e Versionamento** | Git • GitHub • Azure Pipelines • GitHub Actions • Docker |
 
 ---
 
@@ -22,7 +22,7 @@ Ao longo da minha trajetória participei de projetos de logística, Supply Chain
 
 ### 🧪 Automação de Testes
 * Automação E2E com **Playwright**
-* BDD utilizando **SpecFlow** e **Gherkin**
+* BDD/Gherkin utilizando **SpecFlow** e **Cucumber**
 * Estrutura baseada em **Page Object Model (POM)**
 * Geração de massa de dados para testes
 * Execução integrada com pipelines **CI/CD**
