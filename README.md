@@ -54,14 +54,14 @@ Durante minha atuação participei de projetos relacionados a:
 
 ## 🏗️ Projetos em Destaque
 
-### 📂 [QA Portfolio](https://github.com/ricardochula/NOME_DO_SEU_REPO_AQUI)
+### 📂 [QA Portfolio](https://github.com/ruanads/portfolio-qa)
 *Projeto demonstrando:*
 * Automação E2E com **Playwright**
 * Testes de API e Contrato utilizando **Zod**
 * BDD com **Cucumber**
 * Integração contínua com **GitHub Actions**
 
-### ☕ [Trilha de Estudos Java + Selenium](https://github.com/ricardochula/NOME_DO_SEU_REPO_AQUI)
+### ☕ [Trilha de Estudos Java + Selenium](https://github.com/ruanads/trilha-qa-java)
 *Repositório criado para registrar minha evolução em:*
 * Java e Orientação a Objetos
 * Selenium WebDriver e Automação de Testes
