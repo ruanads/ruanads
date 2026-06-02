@@ -39,6 +39,17 @@ Ao longo da minha trajetória participei de projetos de logística, Supply Chain
 * Testes Exploratórios e de Segurança
 * Testes de Carga e Stress
 
+### 🌎 Experiência de Negócio
+
+Durante minha atuação participei de projetos relacionados a:
+
+- Logística e Supply Chain
+- RFID e rastreabilidade
+- Integrações via APIs e SFTP
+- Middleware e processamento de eventos
+- WMS (Warehouse Management System)
+- E-commerce B2B
+
 ---
 
 ## 🏗️ Projetos em Destaque
