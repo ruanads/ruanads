@@ -38,7 +38,6 @@ Ao longo da minha trajetória participei de projetos de logística, Supply Chain
 - GitHub
 - GitHub Actions
 - Docker
-- AWS EC2
 
 ---
 
@@ -50,7 +49,7 @@ Ao longo da minha trajetória participei de projetos de logística, Supply Chain
 - BDD utilizando SpecFlow e Gherkin
 - Estrutura baseada em Page Object Model
 - Geração de massa de dados para testes
-- Integração com pipelines CI/CD
+- Execução com pipelines CI/CD
 
 ### APIs
 
