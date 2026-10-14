@@ -11,10 +11,10 @@ Ao longo da minha trajetória participei de projetos de logística, Supply Chain
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Testes e Automação** | Playwright • SpecFlow • Selenium *(estudando)* • Postman • OWASP ZAP • Burp Suite |
+| **Testes e Automação** | Playwright • SpecFlow • Cucumber • Postman • OWASP ZAP • Burp Suite |
 | **Linguagens** | TypeScript • Java • Python • C# |
-| **Banco de Dados** | PostgreSQL • MySql • SQL |
-| **DevOps e Versionamento** | Git • GitHub • Azure Pipelines • GitHub Actions • Docker |
+| **Banco de Dados** | SQL Server • PostgreSQL • MySQL |
+| **DevOps e Versionamento** | Git • GitHub • Azure DevOps (Boards, Test Plans, Pipelines) • GitHub Actions • Docker |
 
 ---
 
@@ -39,6 +39,11 @@ Ao longo da minha trajetória participei de projetos de logística, Supply Chain
 * Testes Exploratórios e de Segurança
 * Testes de Carga e Stress
 
+### 🧰 Ferramentas para o time de QA
+* Automação da preparação de ambiente de teste por branch (Git, migrations de banco e build), com regras de segurança para bases compartilhadas
+* Geração e validação de massa de dados, incluindo XMLs de NF-e de teste validados contra o schema oficial
+* Registro de evidências e geração de cenários no formato do Azure Test Plans
+
 ### 🌎 Experiência de Negócio
 
 Durante minha atuação participei de projetos relacionados a:
@@ -49,27 +54,29 @@ Durante minha atuação participei de projetos relacionados a:
 - Middleware e processamento de eventos
 - WMS (Warehouse Management System)
 - E-commerce B2B
+- ERP: faturamento, recebimento de notas fiscais, estoque e financeiro
+- Documentos fiscais eletrônicos (NF-e) e a Reforma Tributária (IBS/CBS)
 
 ---
 
 ## 🏗️ Projetos em Destaque
 
+### 📒 [Caderno de Evidências](https://github.com/ruanads/caderno-evidencia) · [▶ demo](https://ruanads.github.io/caderno-evidencia/)
+*Ferramenta que criei para o meu dia a dia de QA:* importa os test cases do **Azure Test Plans**, recebe os prints colados direto no passo em execução e exporta comentário, relatório e evidências prontos.
+* **TypeScript** (strict) + Vite, roda offline num único HTML
+* Testes unitários (`node:test`) e **end-to-end com Playwright**
+* CI no **GitHub Actions** com publicação da demo no GitHub Pages
+
 ### 📂 [QA Portfolio](https://github.com/ruanads/portfolio-qa)
-*Projeto demonstrando:*
-* Automação E2E com **Playwright**
-* Testes de API e Contrato utilizando **Zod**
-* BDD com **Cucumber**
-* Integração contínua com **GitHub Actions**
-
-### ☕ [Trilha de Estudos Java + Selenium](https://github.com/ruanads/trilha-qa-java)
-*Repositório criado para registrar minha evolução em:*
-* Java e Orientação a Objetos
-* Selenium WebDriver e Automação de Testes
-
+*Testes automatizados da API pública do GitHub:*
+* Testes de **API REST** com **Playwright**
+* Testes de **contrato** com **Zod**
+* BDD com **Cucumber/Gherkin** em português
+* Integração contínua com **GitHub Actions** e relatórios como artefatos
 ---
 
 ## 📈 Atualmente estudando
-* Selenium WebDriver + Automação com Java
+* **Playwright + TypeScript** a fundo: testes E2E de interface com **Page Object Model**, fixtures e paralelismo
 * Testes de Performance com **K6**
 * Engenharia de Qualidade
 
