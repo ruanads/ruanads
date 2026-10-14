@@ -2,7 +2,7 @@
 
 ### 💻 QA Analyst | Automação de Testes | API Testing | Quality Assurance
 
-Atuo na área de Qualidade de Software há cerca de 4 anos, com experiência em testes funcionais, integração, APIs, banco de dados e automação de testes.  
+Atuo na área de Qualidade de Software há cerca de 5 anos, com experiência em testes funcionais, integração, APIs, banco de dados e automação de testes.  
 Ao longo da minha trajetória participei de projetos de logística, Supply Chain e e-commerce B2B, atuando na validação de fluxos complexos, integrações entre sistemas e garantia da qualidade de aplicações corporativas.
 
 ---
